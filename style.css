@@ -1,0 +1,37 @@
+html{
+    background-color: #2b2b2b;
+}
+ul{
+    border: black 10px solid;
+    background-color: aqua;
+    width: 150px;
+}
+ul:hover{
+    background-color: aquamarine;
+}
+.Begin{
+    border: black 10px solid;
+    text-align: center;
+    width: 300px;
+    background-color: whitesmoke;
+}
+p{
+    border: black 5px solid;
+    background-color: blueviolet;
+    width: fit-content;
+}
+p:hover{
+    background-color: gold;
+}
+img{
+    border: black 3px solid;
+}
+.info{
+    border: 10px black solid;
+    width: fit-content;
+    background-color: bisque;
+}
+#if{
+    border: 0px;
+    background-color: bisque;
+}
